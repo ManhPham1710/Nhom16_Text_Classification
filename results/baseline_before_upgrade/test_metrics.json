@@ -1,0 +1,13 @@
+{
+  "model": "LinearSVC",
+  "test_documents": 50373,
+  "accuracy": 0.9310741865682012,
+  "precision_macro": 0.9214019733047394,
+  "recall_macro": 0.9088098889348906,
+  "f1_macro": 0.9136930894390511,
+  "precision_weighted": 0.9304789398004455,
+  "recall_weighted": 0.9310741865682012,
+  "f1_weighted": 0.9301199659417039,
+  "prediction_time_seconds": 0.205,
+  "misclassified_documents": 3472
+}

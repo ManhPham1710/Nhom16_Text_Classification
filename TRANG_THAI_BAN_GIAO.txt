@@ -1,0 +1,3 @@
+BỘ MÃ NGUỒN VÀ DỮ LIỆU ĐÃ ĐÓNG GÓI.
+Chưa đóng gói mô hình .joblib và kết quả Test vì các tệp này phải được sinh ra bằng lần chạy thực tế trên máy thực hiện.
+Thứ tự: python train.py -> python evaluate.py -> streamlit run app.py
